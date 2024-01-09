@@ -1,0 +1,14 @@
+.Message {
+    border: 2px #eee solid;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Ajoutez ceci pour votre message caché */
+.hiddenMessage {
+    border: 2px #eee solid;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
